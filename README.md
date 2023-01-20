@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bahar 
 - 👀 I’m interested in learning, love to travel and learn more.
-- 🌱 I’m currently taking last semester of the web developer course.
+- 🌱 I got my certificates on Web Design and web development.
 - 💞️ see some of my projects on https://baharoveis.github.io
 - 📫 reach me at baharoveis@gmail.com 
 
